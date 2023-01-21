@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @authors Hugo, Pedro, Pablo y Manu
+ * @author Manu
  */
 //Método Vehiculo que hereda de una clase abstracta llamada Mecanico.
 public class Vehiculo extends Mecanico {
