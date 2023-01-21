@@ -7,7 +7,7 @@ package taller;
 
 /**
  *
- * @authors Hugo, Pedro, Pablo y Manu
+ * @authors Manu
  */
 
 //Clase abstracta que contiene un método abstracto para elegir el mecánico.
