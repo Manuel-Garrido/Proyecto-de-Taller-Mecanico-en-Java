@@ -9,7 +9,7 @@ import java.util.*;
 
 /**
  *
- * @authors Hugo, Pedro, Pablo y Manu
+ * @authors Manu
  */
 //Clase Coche que hereda de la clase Vehiculo e implementa la interfaz Reparaciones.
 public class Coche extends Vehiculo implements Reparaciones {
