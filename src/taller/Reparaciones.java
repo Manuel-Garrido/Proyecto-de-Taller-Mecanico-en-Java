@@ -7,7 +7,7 @@ package taller;
 
 /**
  *
- * @authors Hugo, Pedro, Pablo y Manu
+ * @authors Manu
  */
 
 //Interfaz que contiene 3 métodos abstractos llamados reparaciones, precioTotal y mostrarReparaciones.
