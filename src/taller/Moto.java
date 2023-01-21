@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @authors Hugo, Pedro, Pablo y Manu
+ * @authors Manu
  */
 //Clase Moto que hereda de la clase Vehiculo e implementa la interfaz Reparaciones.
 public class Moto extends Vehiculo implements Reparaciones {
