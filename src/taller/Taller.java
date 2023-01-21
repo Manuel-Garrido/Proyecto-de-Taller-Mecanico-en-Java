@@ -7,7 +7,7 @@ package taller;
 
 /**
  *
- * @authors Hugo, Pedro, Pablo y Manu
+ * @author Manu
  */
 public class Taller {
     //Método Main para iniciar el programa con InterruptedException por el uso de sleep en un método.
