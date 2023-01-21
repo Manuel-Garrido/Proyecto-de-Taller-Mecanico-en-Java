@@ -12,7 +12,7 @@ import java.util.*;
 
 /**
  *
- * @authors Hugo, Pedro, Pablo y Manu
+ * @authors Manu
  */
 //Implementa una interfaz predefinida de Java.
 public class Datos implements Comparator {
